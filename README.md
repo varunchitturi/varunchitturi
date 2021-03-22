@@ -2,6 +2,9 @@
 
 <img src="https://img.shields.io/badge/OS-Mac%2FLinux-blue"/>
 <img src="https://img.shields.io/badge/dev-fullstack%2Fcomp-green"/>
+<img src="https://img.shields.io/badge/born-2004-red">
+<a href="https://www.buymeacoffee.com//varunchitturi" title="Donate using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
+
 
 - 🔭 I’m currently working on [Ease Attendance](https://github.com/varunchitturi/ease-attendance)
 
@@ -33,7 +36,7 @@
 <br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=varunchitturi&theme=dark" alt="varunchitturi" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<br>
+<br><br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/varunchitturi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="varunchitturi" /></a></p><br><br>
 
