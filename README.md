@@ -35,6 +35,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=varunchitturi&show_icons=true&theme=dark&locale=en" alt="varunchitturi" /></p>
 <br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=varunchitturi&theme=dark" alt="varunchitturi" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>><br>
 <p><a href="https://www.buymeacoffee.com/varunchitturi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="varunchitturi" /></a></p><br><br>
 
