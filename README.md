@@ -10,4 +10,4 @@
 ### Contact Information
 |           Email          |       Discord      |
 |--------------------------|--------------------|
-|  varunchitturi@icloud.com| varunchitturi#0001 |
+|  varunchitturi@icloud.com| `varunchitturi#0001` |
