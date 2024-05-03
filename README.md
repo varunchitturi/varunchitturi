@@ -2,7 +2,7 @@
 ## Varun Chitturi
 
 ### Bio
-- Working on [School Scope](https://schoolscope.org) and [DataChat](https://datachat.ai/)
+- Studying CS @ The University of Pennsylvania
 
 
 ### Contact Information
