@@ -4,6 +4,4 @@
 ### Bio
 - Studying CS @ The University of Pennsylvania
 
-
-### Personal Website
-varunchitturi.com
+- [Personal Website](https://varunchitturi.com)
